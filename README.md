@@ -1,7 +1,7 @@
 # AI-CONTENT-ENGINE-Programmatic-SEO-Content-at-Scale
 """
 =====================================================================
-  AI CONTENT ENGINE — Programmatic SEO & Content at Scale
+  AI CONTENT ENGINE Programmatic SEO & Content at Scale
   Author : Tanusree Saha
   Tool   : Python + Claude API (Anthropic)
   Purpose: Digital Marketing Portfolio Project
